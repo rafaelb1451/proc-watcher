@@ -1,0 +1,16 @@
+# Arquivo de compilacao do C
+*.o
+*.skel.h
+*.bpf.o
+
+# Executaveis
+proc-watcher
+/minimal
+
+# Pastas de build
+.output/
+build
+
+# Arquivos de ambiente 
+.vscode/
+.idea/
